@@ -1,3 +1,5 @@
+![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) 
+
 # SKY130 Spiking Neuron
 
 CMOS realization of an Izhikevich-style spiking neuron.
